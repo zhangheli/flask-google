@@ -1,7 +1,6 @@
 import requests
 from flask import Flask, request, make_response
 
-### 看美女图片，快去 ioreq.com
 app = Flask(__name__)
 
 
